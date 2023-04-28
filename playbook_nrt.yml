@@ -1,0 +1,6 @@
+---
+# playbook for role_nrt
+
+- hosts: localhost
+  roles:
+    - role_nrt
